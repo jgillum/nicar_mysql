@@ -1,5 +1,5 @@
 
-# NICAR 2019 intermediate MySQL
+# NICAR 2019 MySQL
 
 By Jack Gillum, ProPublica \
 jack.gillum@propublica.org \
